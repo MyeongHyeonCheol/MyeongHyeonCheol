@@ -3,8 +3,6 @@
 [![Email](https://img.shields.io/badge/Email-audguscjf@gmail.com-blue?style=flat-square&logo=gmail)](mailto:audguscjf@gmail.com)
 [![Phone](https://img.shields.io/badge/Phone-010--3281--4319-green?style=flat-square&logo=whatsapp)](tel:010-3281-4319)
 
-### 🎓 Education
-* **한남대학교** | 컴퓨터공학과 (2020.02 - 2026.02)
 
 ### 🛠 Tech Stacks
 **Language**
